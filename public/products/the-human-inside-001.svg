@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1500" height="1500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad-the-human-inside-001" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#8B5CF6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1F2937;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="1500" height="1500" fill="url(#grad-the-human-inside-001)"/>
+  
+  <!-- Collection name -->
+  <text x="750" y="600" font-family="Arial, sans-serif" font-size="80" font-weight="bold" 
+        fill="rgba(255,255,255,0.9)" text-anchor="middle">
+    THE HUMAN-INSIDE
+  </text>
+  
+  <!-- Product code -->
+  <text x="750" y="800" font-family="Arial, sans-serif" font-size="140" font-weight="bold" 
+        fill="rgba(255,255,255,0.95)" text-anchor="middle">
+    HI-001
+  </text>
+  
+  <!-- Placeholder text -->
+  <text x="750" y="950" font-family="Arial, sans-serif" font-size="40" 
+        fill="rgba(255,255,255,0.5)" text-anchor="middle">
+    PLACEHOLDER
+  </text>
+  <text x="750" y="1020" font-family="Arial, sans-serif" font-size="40" 
+        fill="rgba(255,255,255,0.5)" text-anchor="middle">
+    1500 x 1500 px
+  </text>
+</svg>
